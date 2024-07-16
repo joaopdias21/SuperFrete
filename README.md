@@ -24,6 +24,10 @@ Após aparecer a pasta, basta mover os arquivos de teste para este caminho cypre
 
 
 
+Também, pode acessar o video através do drive mostrando o passo a passo:
+https://drive.google.com/file/d/1BTR0DEuzf-aw5LRQ-cNbJeo1tiubU3ur/view?usp=sharing
+
+
 
 
 
