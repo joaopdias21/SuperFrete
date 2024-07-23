@@ -1,4 +1,4 @@
-Para chegar ao codigo de automações, é só seguir esse caminho entre as pastas que estão aqui no git cypress\e2e\. Na pasta e2e ja consegue enchergar as pastas de testes 
+Para chegar ao codigo de automações, é só seguir esse caminho entre as pastas que estão aqui no git cypress\e2e\. Na pasta e2e ja consegue enxergar as pastas  
 
 Para rodar os testes precisa de alguns pré requisitos como :
 
