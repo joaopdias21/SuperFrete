@@ -27,8 +27,7 @@ Após aparecer a pasta, basta mover os arquivos de teste para este caminho cypre
 Também, pode acessar o video através do drive mostrando o passo a passo:
 https://drive.google.com/file/d/1HP7Ks-VsRznWl8eGCZjt3xxBmIm8TNEx/view?usp=sharing
 
-E aqui também temos uma documentação dos códigos com Testes Manuais e Casos de testes:
-https://drive.google.com/file/d/1PYAi_oLeEy4oZhU1Ly3faiE-UOgUZmqU/view?usp=sharing
+
 
 
 
